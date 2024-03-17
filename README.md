@@ -7,10 +7,10 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat" heigth="25"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat" heigth="25"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white&style=flat" height="28"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&style=flat" height="28"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&style=flat&style=flat" height="28"/>
-<img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge&style=flat" height="28">
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white&style=flat" heigth="25"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge">
+<img src="https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat" alt="OpenJDK Badge">
+<img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge&style=flat">
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="Spring Badge">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&style=flat" heigth="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white&style=flat" height="28"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&style=flat" height="28"/>
