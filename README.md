@@ -4,6 +4,12 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge" height="30">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge" height="30">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge" height="30">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge" height="30">
+<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge" height="30">
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat" alt="NestJS Badge" height="30">
 <img src="https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat" alt="OpenJDK Badge" height="30">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge" height="30">
 <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge&style=flat" height="30">
