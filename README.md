@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge" height="30">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge" height="30">
-<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat" alt="Angular Badge"  height="34">
+<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat" alt="Angular Badge"  height="32">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge" height="30">
-<img src="https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat" alt="OpenJDK Badge" height="34">
+<img src="https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat" alt="OpenJDK Badge" height="32">
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="Spring Badge" height="30">
 <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge&style=flat" height="30">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat" alt="Flutter Badge" height="30">
