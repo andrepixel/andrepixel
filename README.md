@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge" height="30">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" alt="Vue Badge" height="30">
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" alt="Amazon AWS Badge" height="30">
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" alt="Amazon AWS Badge" height="32">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge" height="30">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge" height="30">
