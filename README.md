@@ -5,10 +5,10 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge" height="30">
-<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat" alt="Angular Badge" height="30">
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" alt="Amazon AWS Badge" height="32">
+<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat" alt="Angular Badge" height="31">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge" height="30">
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat" alt="Amazon AWS Badge" height="31">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge" height="30">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat" alt="Flutter Badge" height="30">
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat" alt="Apache Kafka Badge" height="30">
