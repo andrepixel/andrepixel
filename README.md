@@ -6,8 +6,8 @@
 
 <img src="https://img.shields.io/badge/OpenJDK-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="OpenJDK Badge" height="32">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" alt="OpenJDK Badge" height="32">
-<img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=flat" alt="Quarkus Badge" height="30">
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="Spring Badge" height="30">
+<img src="https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white" alt="Quarkus Badge" height="30">
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Badge" height="30">
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" alt="Go Badge" height="30">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" height="30">
 <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Badge" height="30">
